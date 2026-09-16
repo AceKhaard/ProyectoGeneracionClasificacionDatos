@@ -1,0 +1,10 @@
+CC;1000000001;Carlos;Ramirez
+CC;1000000002;Alejandro;Martinez
+CC;1000000003;Juan;Rodriguez
+CC;1000000004;Camila;Castro
+CC;1000000005;Alejandro;Moreno
+CC;1000000006;David;Lopez
+CC;1000000007;Alejandro;Vargas
+CC;1000000008;Laura;Hernandez
+CC;1000000009;Valentina;Vargas
+CC;1000000010;Juan;Vargas

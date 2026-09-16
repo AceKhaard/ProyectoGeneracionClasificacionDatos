@@ -1,0 +1,20 @@
+1;Teclado;245599
+2;Mouse;31947
+3;Monitor;951466
+4;Audifonos;416502
+5;Webcam;687156
+6;Parlantes;365683
+7;Memoria RAM;122732
+8;Disco SSD;835859
+9;Impresora;78503
+10;Microfono;473158
+11;Camara;719753
+12;Router;565003
+13;Switch;490661
+14;Tablet;792485
+15;Portatil;139054
+16;Cargador;197965
+17;Cable HDMI;33610
+18;Memoria USB;132892
+19;Alfombrilla;912900
+20;Control Gamer;881176

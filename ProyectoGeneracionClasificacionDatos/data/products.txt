@@ -1,20 +1,20 @@
-1;Teclado;245599
-2;Mouse;31947
-3;Monitor;951466
-4;Audifonos;416502
-5;Webcam;687156
-6;Parlantes;365683
-7;Memoria RAM;122732
-8;Disco SSD;835859
-9;Impresora;78503
-10;Microfono;473158
-11;Camara;719753
-12;Router;565003
-13;Switch;490661
-14;Tablet;792485
-15;Portatil;139054
-16;Cargador;197965
-17;Cable HDMI;33610
-18;Memoria USB;132892
-19;Alfombrilla;912900
-20;Control Gamer;881176
+1;Teclado;588980
+2;Mouse;388563
+3;Monitor;930880
+4;Audifonos;30317
+5;Webcam;686350
+6;Parlantes;868385
+7;Memoria RAM;471938
+8;Disco SSD;660698
+9;Impresora;575303
+10;Microfono;171484
+11;Camara;603980
+12;Router;950012
+13;Switch;404873
+14;Tablet;575184
+15;Portatil;37432
+16;Cargador;973634
+17;Cable HDMI;238850
+18;Memoria USB;278811
+19;Alfombrilla;846149
+20;Control Gamer;702276

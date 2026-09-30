@@ -1,0 +1,15 @@
+PENDIENTES DEL PROYECTO
+
+1. Realizar pruebas adicionales con diferentes cantidades de
+   vendedores y productos.
+
+2. Revisar y ampliar la documentación JavaDoc de todas las clases.
+
+3. Realizar pruebas de validación con archivos que contengan
+   información incorrecta.
+
+4. Evaluar la implementación de elementos adicionales para
+   mejorar el proyecto final.
+
+5. Realizar las pruebas finales de funcionamiento antes de
+   la Entrega 3 y sustentación.
